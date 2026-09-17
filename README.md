@@ -1,5 +1,7 @@
 # Market Regimes & Adaptive Portfolio Construction
 
+> **📥 Read the Full Study:** [View the 12-Page Empirical Research Report (PDF)](market_regime_portfolio_report.pdf)
+
 Exploratory academic backtesting study investigating latent market regime detection using Hidden Markov Models (HMMs) and dynamic asset allocation across 30 industry sectors.
 
 ---
